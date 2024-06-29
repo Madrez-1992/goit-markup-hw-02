@@ -76,17 +76,22 @@
 
  }
  .hero-button{
-    color: #ffffff;
-    background-color: #4D5AE5;
-    font-weight: 500;
+    font-weight: 500;  
     line-height: 1.5;
     letter-spacing: 0.04em; 
-    cursor: pointer;
-    } 
+    color: #ffffff;
+    background-color: #4D5AE5; 
+    padding:10px; 20px;
+    text-align: center;
+    display: inline-block;
+     cursor: pointer;}
 
- .hero-button:hover,
- .nero-button:focus {
-    background-color: #404BBF;
+
+
+ .hero-button :hover,
+ .nero-button :focus {
+    background-color: #404bc3; 
+    
  }
 
 .lorem-subtitle{
