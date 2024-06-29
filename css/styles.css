@@ -85,11 +85,10 @@
 
 
 
- .hero-button:hover,
- .nero-button:focus{
+ .hero-button:focus, 
+ .hero-button:hover
+ { 
    background-color:#404BBF;
-    background-color: #404BBF; 
-    color:#ffffff;
  }
 
 
