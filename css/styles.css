@@ -79,7 +79,7 @@
     line-height: 1.5;
     letter-spacing: 0.04em; 
     color: #ffffff;
-    background-color:  #4D5AE5; 
+    background-color: #404BBF; 
     cursor: pointer; 
    }
 
@@ -88,7 +88,7 @@
  .hero-button:hover,
  .nero-button:focus {
     background-color:  #4D5AE5;
-    background-color:  #404BBF;
+    background-color:  #4D5AE5;
     color:#ffffff;
  }
 
