@@ -87,8 +87,7 @@
 
  .hero-button:hover,
  .nero-button:focus{
-    background-color: #404BBF;
-    background-color:  #4D5AE5;
+   background-color:  #4D5AE5;
     color:#ffffff;
  }
 
