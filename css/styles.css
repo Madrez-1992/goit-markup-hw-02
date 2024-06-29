@@ -87,8 +87,9 @@
 
  .hero-button:hover,
  .nero-button:focus {
-    background-color:  #404BBF; 
+    background-color:  #4D5AE5;
     background-color:  #404BBF;
+    color:#ffffff;
  }
 
 
@@ -127,7 +128,7 @@
       } 
     
       .list-one{
-        background-color: #F4F4FD
+        background-color: #FFFFFF;
          }
 
     
@@ -136,5 +137,5 @@
     .sales{
          line-height: 1.5;
           letter-spacing: 0.02em;
-          color: #F4F4FD;;
+          color: #F4F4FD;
     }
